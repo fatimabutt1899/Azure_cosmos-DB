@@ -1,0 +1,44 @@
+# Local .terraform directories
+**/.terraform/*
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+
+# Exclude the Terraform provider binaries
+**/terraform-provider-azurerm_v*
+
+# Terraform variable files
+*.tfvars
+*.tfvars.json
+
+# .env files, often used to store environment variables
+.env
+
+# Override settings for various editors
+*.swp
+*.swo
+
+# MacOS files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Lock file
+*.lock.hcl
+
+# Exclude sensitive files such as service account keys
+*.p12
+*.json
+
+# Exclude archive and backup files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.bak
+*.backup

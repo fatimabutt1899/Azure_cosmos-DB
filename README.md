@@ -28,7 +28,7 @@ The project is organized into the following Terraform configuration files:
 1. Clone this repository to your local machine:
 
     ```sh
-    git clone https://github.com/<your-username>/Azure_cosmos-DB.git
+    git clone https://github.com/fatimabutt1899/Azure_cosmos-DB.git
     cd Azure_cosmos-DB
     ```
 
